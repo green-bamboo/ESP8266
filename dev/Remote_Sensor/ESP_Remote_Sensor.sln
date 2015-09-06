@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESP_Remote_Sensor", "ESP_Remote_Sensor.vcxproj", "{ECE334C7-731B-4E1D-AE3A-4113306E599F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE334C7-731B-4E1D-AE3A-4113306E599F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECE334C7-731B-4E1D-AE3A-4113306E599F}.Debug|Win32.Build.0 = Debug|Win32
+		{ECE334C7-731B-4E1D-AE3A-4113306E599F}.Release|Win32.ActiveCfg = Release|Win32
+		{ECE334C7-731B-4E1D-AE3A-4113306E599F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
